@@ -1,6 +1,6 @@
 # SCARA Manipulator Trajectory Planning
 
-### Objective
+### OBJECTIVE
 Part 1- To implement a second order algorithm for kinematic inversion with Jacobian inverse along a given trajectory using MATLAB and Simulink.
 
 Part 2- To implement a second order algorithm for kinematic inversion with Jacobian Pseudo inverse along a given trajectory, for a redundant SCARA manipulator, using MATLAB and Simulink.
