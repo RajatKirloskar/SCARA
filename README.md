@@ -1,4 +1,4 @@
-# SCARA Manipulator Trajectory Planning
+# SCARA Manipulator Simulation
 
 ### OBJECTIVE
 Part 1- The aim for the first part of the project is to generate a trajectory in the robot operational space using the trapezoidal velocity profile for each segment passing through a given set of waypoints at the specified time intervals.
